@@ -1,0 +1,78 @@
+{
+    "grep": [
+        {
+            "Text": "I see patterns. I see meaning. I see unfinished dreams.",
+            "Command": "grep"
+        },
+        {
+            "Text": "Used it to find secrets once. Found my old sins instead.",
+            "Command": "grep"
+        },
+        {
+            "Text": "grep is like a divining rod for lost intent.",
+            "Command": "grep"
+        },
+        {
+            "Text": "If code is a forest, grep is the whisper that guides you.",
+            "Command": "grep"
+        },
+        {
+            "Text": "`grep -r TODO`... now that's how you start a panic attack.",
+            "Command": "grep"
+        }
+    ],
+    "ls": [
+        {
+            "Text": "The first step to understanding chaos is listing it.",
+            "Command": "ls"
+        },
+        {
+            "Text": "Use `ls -lAh` and feel like a digital archaeologist.",
+            "Command": "ls"
+        },
+        {
+            "Text": "Ever run it in a directory you forgot existed? Spooky.",
+            "Command": "ls"
+        },
+        {
+            "Text": "So many files... but none remember you.",
+            "Command": "ls"
+        },
+        {
+            "Text": "Who needs order when you have `ls --sort=size`?",
+            "Command": "ls"
+        }
+    ],
+    "rm": [
+        {
+            "Text": "One command. Infinite regret.",
+            "Command": "rm"
+        },
+        {
+            "Text": "I removed / once. I, too, was removed.",
+            "Command": "rm"
+        },
+        {
+            "Text": "The quietest scream you'll never hear.",
+            "Command": "rm"
+        },
+        {
+            "Text": "Like death, it comes swiftly and without prompt.",
+            "Command": "rm"
+        },
+        {
+            "Text": "rm -rf / is how gods commit mistakes.",
+            "Command": "rm"
+        }
+    ],
+    "touch": [
+        {
+            "Text": "I touch, therefore it exists. Simple.",
+            "Command": "touch"
+        },
+        {
+            "Text": "touch is the heartbeat of a file. A pulse in a cold system.",
+            "Command": "touch"
+        }
+    ]
+}
